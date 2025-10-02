@@ -1,3 +1,5 @@
+An Information system for inventory and control on Python using Pyobdc, pillow, MySQL Server.
+
 **Requirements for Proper Program Execution**
 
 To ensure the program functions correctly, please follow these steps:
